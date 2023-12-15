@@ -1,0 +1,15 @@
+.mundo{    
+    display: flex;
+    justify-content: center;
+    height: 200px;
+}
+.mundo img{
+    border: 4px solid greenyellow;
+    box-shadow: 10px 10px 10px 10px hsla(88, 74%, 48%, 0.747);
+}
+
+.cajaForm{
+    display: grid;
+    place-items: center;
+    margin-top: 60px;
+}
